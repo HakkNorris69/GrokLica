@@ -1,0 +1,9 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+  background: #0d0d0d;
+  color: #e8e8e8;
+}
+a { color: inherit; }
+button, input { font: inherit; }
